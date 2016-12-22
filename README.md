@@ -4,6 +4,11 @@ LieberLieber will provide extensions for Enterprise Architect from SparxSystems
 please visit http://www.lieberlieber.com for more information
 
 LemonTree (c) Fresh Model Versioning 
+LieberLieber is proud to present a brand new Enterprise Architect tool named LemonTree (c). The most important function of this ground-breaking product is the diffing and merging of model versions.
+
+Now, you do not have to lock your packages. Just check-in your eap files in your version control system such as Git, SVN, PTC or RTC!
+
+Standard approaches use line- and text-based applications that do not suffice for graphic models. Only the finely-grained 3-way diffing algorithm that considers the model’s graph structure enables an exact comparison between two models. 
 Highlights:
 
     Diff & Merge: Diffing and merging of Enterprise Architect models
